@@ -75,13 +75,3 @@ body {
     top: 50%;
     margin-top: -150px;
 }
-
-.ball {
-    background: url(../img/ball.png) no-repeat center top;
-    width: 1516px;
-    height: 820px;
-    position: absolute;
-    left: 50%;
-    margin-left: -758px;
-    bottom: 0;
-}
